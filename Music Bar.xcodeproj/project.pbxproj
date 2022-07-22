@@ -49,6 +49,7 @@
 /* Begin PBXFileReference section */
 		1099BCB860C25D8BCB1FFC45 /* Pods_Music_Bar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Music_Bar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		20FDE759B0E45EC2755AF4F6 /* Pods-Music Bar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Music Bar.debug.xcconfig"; path = "Target Support Files/Pods-Music Bar/Pods-Music Bar.debug.xcconfig"; sourceTree = "<group>"; };
+		A5AEE5AB288A794F008D5A6A /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		C6041D8923B3D8BF00E89597 /* nl-NL */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "nl-NL"; path = "nl-NL.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		C6041D8B23B3D90000E89597 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C6041D8D23B3D9DD00E89597 /* XIBLocalizable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XIBLocalizable.swift; sourceTree = "<group>"; };
@@ -292,6 +293,7 @@
 				de,
 				hr,
 				tr,
+				"zh-Hant",
 			);
 			mainGroup = C60567CF238AE0C8009601E5;
 			productRefGroup = C60567D9238AE0C8009601E5 /* Products */;
@@ -411,6 +413,7 @@
 				C6A71E0623B3E18E0006CA3F /* de */,
 				C6C3AA0B26A2F9D300E79D7F /* hr */,
 				C6D09E3527A93E1500577D24 /* tr */,
+				A5AEE5AB288A794F008D5A6A /* zh-Hant */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

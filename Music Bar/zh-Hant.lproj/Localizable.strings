@@ -1,0 +1,53 @@
+/**********************************************/
+/*		Preference tab labels
+/**********************************************/
+"preference_tab_info" = "資訊";
+"preference_tab_general" = "一般";
+"preference_tab_display" = "顯示";
+"preference_tab_support" = "贊助";
+"preference_tab_feedback" = "意見回饋";
+
+/**********************************************/
+/*		Preferences: Information tab
+/**********************************************/
+"check_updates" = "檢查更新";
+"quit_app" = "退出程式";
+"goodbye_wave" = "再見 👋";
+"info_version" = "版本 {v}";
+"info_credit_notice" = "Music Bar for macOS by Musse Semou & Khoren Katklian. 版權所有。";
+
+/**********************************************/
+/*		Preferences: General tab
+/**********************************************/
+"launch_at_login" = "登入時啟動 Music Bar";
+
+/**********************************************/
+/*		Preferences: Appearance tab
+/**********************************************/
+"appearance" = "外觀：";
+"appearance_option_light" = "淺色";
+"appearance_option_dark" = "深色";
+"appearance_option_auto" = "自動";
+
+"menu_bar_popover_gap" = "於 Menu Bar 及彈出式視窗之間保留空隙";
+
+"show_menu_bar_icon" = "於選單列顯示圖示";
+
+"track_formatting" = "歌曲顯示格式：";
+"track_formatting_option_artist_and_title" = "Nirvana - Smells Like Teen Spirit";
+"track_formatting_option_artist_only" = "Nirvana";
+"track_formatting_option_title_only" = "Smells Like Teen Spirit";
+"track_formatting_option_hide" = "隱藏歌曲資訊";
+
+/**********************************************/
+/*		Preferences: Support tab
+/**********************************************/
+"support_info" = "我是一位在空閒時間製作 Music Bar 的全職軟體工程系學生。如果你喜歡 Music Bar，歡迎贊助！每一點一滴都能幫助到我。 💜";
+
+/**********************************************/
+/*		Preferences: Feedback tab
+/**********************************************/
+"github_issue_info" = "如果您對 Music Bar 有任何建議，或是使用上有遇到什麼問題，請於 GitHub Repository 建立 Issue。";
+"open_github" = "開啟 GitHub Repository";
+"twitter_contact_info" = "另外，你也可以在 Twitter 上聯繫到 Music Bar 的維護者。";
+"open_twitter" = "在 Twitter 上查看 @musa11971";
